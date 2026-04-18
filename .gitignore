@@ -1,0 +1,21 @@
+# Task description (not published)
+*.pdf
+
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+build/
+out/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
